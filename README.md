@@ -31,7 +31,7 @@ TODO：
 
 - Install
 ```go
-go get github.com/kxg3030/shermie-proxy
+go get github.com/likangjia/shermie-proxy
 ```
 
 - Listen
